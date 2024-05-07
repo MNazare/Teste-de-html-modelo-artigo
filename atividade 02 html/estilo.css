@@ -1,0 +1,52 @@
+html{
+    font-family: "prompt", sans-serif;
+}
+body{
+    background-color: rgb(165, 223, 223);
+    color: rgb(13, 46, 68);
+    gap: 20px;
+    justify-content: center;
+    align-items: center;;
+}
+hr{
+    color: rgb(13, 46, 68);
+}
+.cabe{
+    background-color: antiquewhite;
+    color: rgb(105, 40, 40);
+}
+.noti1{
+    padding: 1rem;
+    width: 600px;
+}
+.noti2{
+    padding: 1rem;
+    width: 600px;
+}
+.not3{
+    padding: 1rem;
+    width: 600px;
+}
+.img1{
+    height: auto;
+    width: 300px;
+}
+.img2{
+    height: auto;
+    width: 300px;
+}
+.img3{
+    height: auto;
+    width: 300px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+.main{
+    display: grid;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
